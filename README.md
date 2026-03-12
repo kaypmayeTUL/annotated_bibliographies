@@ -15,8 +15,8 @@ This interactive HTML presentation teaches undergraduate and graduate students h
 
 | File | Description |
 |------|-------------|
-| `annotated_bibliography_presentation.html` | Interactive presentation (open in any browser) |
-| `README_annotated_bibliography.md` | This file |
+| `index.html` | Interactive presentation (open in any browser) |
+| `README.md` | This file |
 
 ---
 
