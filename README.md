@@ -1,7 +1,7 @@
 # Creating an Annotated Bibliography — Interactive Presentation
 
 **Tulane University Libraries — Howard-Tilton Memorial Library**
-Presented by Kay P. Maye
+
 
 ---
 
